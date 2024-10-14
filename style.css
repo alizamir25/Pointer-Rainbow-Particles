@@ -8,6 +8,6 @@
   body{
     overflow: hidden;
     display: grid;
-    color: white;
-    background: black;
+    color: rgb(236, 230, 230);
+    background: rgb(19, 18, 18);
   }
